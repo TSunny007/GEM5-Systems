@@ -1,0 +1,12 @@
+gem5 Simulator System.  http://gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 compiled May 21 2018 14:44:59
+gem5 started May 21 2018 22:40:35
+gem5 executing on Taruns-MacBook-Pro-2.local, pid 8221
+command line: build/X86/gem5.opt ../GEM5-Systems/systems/hello_world_system.py
+
+Global frequency set at 1000000000000 ticks per second
+Beginning simulation!
+Hello world!
+Exiting @ tick 507841000 because exiting with last active thread context
